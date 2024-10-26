@@ -3,7 +3,7 @@ from telebot import types
 from geopy.distance import great_circle
 
 # апи
-botTimeWeb = telebot.TeleBot('7259377792:AAEBMpjnTOtOcsmH1oRnslR06TIaiL9QIS4')
+botTimeWeb = telebot.TeleBot('Your api key')
 # корды скамеек (лучше бы базу данных)
 locations = [['59.946065', '30.391502'], ['59.947314', '30.408196'], ['59.940747', '30.427765']]
 
